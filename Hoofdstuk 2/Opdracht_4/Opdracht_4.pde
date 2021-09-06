@@ -9,3 +9,5 @@ text("Mijn leeftijd is 17 jaar oud en mijn hobby's zijn coderen en gamen.",10.6,
 
 fill(84,102,105);
 text("Dit is de eerste keer dat ik met Java werk.",10.6,140.4);
+
+square(100.2);
